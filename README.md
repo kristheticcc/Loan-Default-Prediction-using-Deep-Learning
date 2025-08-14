@@ -69,20 +69,6 @@ This model can assist financial institutions in **risk assessment** and **decisi
 - Made real-world predictions on randomly selected borrower data
 
 ---
-
-## 🛠️ How to Use
-
-### 🔧 Requirements
-
-- Python 3+
-- Required libraries:
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - scikit-learn
-  - tensorflow
-
 ## 🛠️ How to Use?
 
 1. **Clone the repository**
